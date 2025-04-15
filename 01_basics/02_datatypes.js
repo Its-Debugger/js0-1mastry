@@ -10,4 +10,4 @@ let isOpen = true
 
 console.log(typeof null); //object
 console.log(typeof undefined); //undefined 
-console.log(typeof "Sumit"); //undefined
+console.log(typeof "Sumit"); //string
