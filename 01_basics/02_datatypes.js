@@ -9,4 +9,5 @@ let age = 23
 let isOpen = true 
 
 console.log(typeof null); //object
-console.log(typeof undefined); //undefined
+console.log(typeof undefined); //undefined 
+console.log(typeof "Sumit"); //undefined
